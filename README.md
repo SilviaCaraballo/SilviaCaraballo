@@ -19,7 +19,12 @@
 </tr>
 <tr>
   <td>Diseño de páginas Web</td>
-    <td>➡️</td>
+  <td>➡️</td>
   <td>2004</td>
+</tr>
+<tr>
+  <td>Programacion en Java</td>
+  <td>➡️</td>
+  <td>2007</td>
 </tr>
 </table>
