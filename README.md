@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola mi nombre es Silvia 👋
 
-<!--
-**SilviaCaraballo/SilviaCaraballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Actualmente estoy aprendiendo de forma autodidacta el lenguaje de Programación Swift 🙎🏻‍♀️ 
+> LLevo 25 años inmersa en el mundo de la informatica, siempre me ha gustado
+> He llegado a trabajar como soporte técnico con tareas en entorno servidor con Windows 2000 Server
 
-Here are some ideas to get you started:
+## He ralizado varios curos del inem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%">
+<tr>
+  <td>Ofimatica básica</td>
+  <td>➡️</td>
+  <td>2002</td>
+</tr>
+<tr>
+  <td>Lenguajes de programación</td>
+  <td>➡️</td>
+  <td>2003</td>
+</tr>
+<tr>
+  <td>Diseño de páginas Web</td>
+    <td>➡️</td>
+  <td>2004</td>
+</tr>
+</table>
