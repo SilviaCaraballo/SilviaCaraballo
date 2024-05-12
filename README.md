@@ -29,6 +29,13 @@
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100">
+  <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxvMmFsc3NnN2JkOTU5NjBnangxaWVjdWxzcWN0d2x2cTk1MWcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWt0rhp21JgLwoeFQP/giphy.gif" width="100">
+</p>
 
 
 ## <p align="center">Puedes contactar conmigo en:</p>
