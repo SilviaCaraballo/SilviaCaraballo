@@ -4,6 +4,10 @@
 > LLevo 25 años inmersa en el mundo de la informatica, siempre me ha gustado
 > He llegado a trabajar como soporte técnico con tareas en entorno servidor con Windows 2000 Server
 
+</br>
+
+<div align="center">
+
 ## He ralizado varios curos del inem
 
 <table style="width:100%">
@@ -28,6 +32,10 @@
   <td>2007</td>
 </tr>
 </table>
+</div>
+
+</br>
+</br>
 
 <p align="center">
   <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100">
@@ -36,9 +44,12 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxvMmFsc3NnN2JkOTU5NjBnangxaWVjdWxzcWN0d2x2cTk1MWcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWt0rhp21JgLwoeFQP/giphy.gif" width="100">
 </p>
+</br>
 
 
 ## <p align="center">Puedes contactar conmigo en:</p>
+
+</br>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100079826251704">
