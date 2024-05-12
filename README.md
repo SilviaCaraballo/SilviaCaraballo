@@ -28,3 +28,16 @@
   <td>2007</td>
 </tr>
 </table>
+
+## <p align="center">Puedes contar conmigo en:</p>
+
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100079826251704">
+    <img src="https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/c694dbe9-20df-480c-a1da-cb149d3423c5" width="8%" alt="Facebook">
+  </a>
+<a href="https://www.linkedin.com/in/silvia-caraballo-fernandez-02bb99308/">
+  <img src="https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/7f4ab9d0-903c-4e31-a52e-e00069db571e" width="8%" alt="Linkedin">
+  <a href="https://twitter.com/home?lang=es">
+  <img src="https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/c735d8af-68a6-496e-a475-47b8fda57eeb" width="8%" alt="Twiter/ X">
+</a>
+</div>
