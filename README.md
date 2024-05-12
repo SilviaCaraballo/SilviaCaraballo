@@ -29,6 +29,8 @@
 </tr>
 </table>
 
+
+
 ## <p align="center">Puedes contar conmigo en:</p>
 
 <div align="center">
@@ -41,3 +43,4 @@
   <img src="https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/c735d8af-68a6-496e-a475-47b8fda57eeb" width="8%" alt="Twiter/ X">
 </a>
 </div>
+
