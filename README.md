@@ -31,7 +31,7 @@
 
 
 
-## <p align="center">Puedes contar conmigo en:</p>
+## <p align="center">Puedes contactar conmigo en:</p>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100079826251704">
