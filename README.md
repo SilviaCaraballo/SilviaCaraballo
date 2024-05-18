@@ -1,6 +1,8 @@
 ![image](https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/3c298d7b-1d03-4b68-ab2b-85a91a9318d6)
 
 ### 👩‍💻 Actualmente estoy aprendiendo de forma autodidacta el lenguaje de Programación Swift 🙎🏻‍♀️ 
+
+
 > LLevo 25 años inmersa en el mundo de la informatica, siempre me ha gustado
 > He llegado a trabajar como soporte técnico con tareas en entorno servidor con Windows 2000 Server
 
