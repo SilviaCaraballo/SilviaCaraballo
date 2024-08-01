@@ -1,11 +1,26 @@
-![image](https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/3c298d7b-1d03-4b68-ab2b-85a91a9318d6)
+![Banner GitHub 001](https://github.com/user-attachments/assets/1638543f-803c-497d-8069-fa1a4bcbe5f9)
 
-### 👩‍💻 Actualmente estoy aprendiendo de forma autodidacta el lenguaje de Programación Swift
 
+### 👩‍💻 Actualmente estoy aprendiendo de forma autodidacta el lenguaje de Programación Swift 
+### 😄 Muy feliz de haber sido admitida en el 
+<div>
+      <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46">
+</div>
+
+## Mas info en: <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="25"></a>
+
+
+</br>
+<div>
+     <a href="https://acoding.academy/formaciones/swift-developer-program/">
+  Consigue tu plaza para el Swift Developer Program de Apple Coding Academy en este enlace
+</a>
+</div>
+
+</br>
 
 > LLevo 25 años inmersa en el mundo de la informatica, siempre me ha gustado
 > He llegado a trabajar como soporte técnico con tareas en entorno servidor con Windows 2000 Server
-
 </br>
 
 <div align="center">
