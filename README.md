@@ -7,7 +7,7 @@
       <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46">
 </div>
 
-## Mas info en: <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="25"></a>
+<p><b>Mas info en --> <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="25"></a></p>
 
 
 </br>
@@ -58,6 +58,8 @@
   <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100">
   <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+      <img src="https://github.com/user-attachments/assets/08816d54-c29e-49dd-9984-66e4fd1fc5d6" width="100">
+
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxvMmFsc3NnN2JkOTU5NjBnangxaWVjdWxzcWN0d2x2cTk1MWcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWt0rhp21JgLwoeFQP/giphy.gif" width="100">
 </p>
