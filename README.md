@@ -1,55 +1,54 @@
 ![Banner GitHub 001](https://github.com/user-attachments/assets/1638543f-803c-497d-8069-fa1a4bcbe5f9)
 
 
-### 👩‍💻 Actualmente estoy aprendiendo de forma autodidacta el lenguaje de Programación Swift 
-### 😄 Muy feliz de haber sido admitida en el 
+### 👩‍💻 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años
+### 😄 Actualmente estoy cursando el:
 <div>
       <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46">
 </div>
 
-<p><b>Mas info en --> <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="25"></a></p>
+# Mas info en → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
 
-
-</br>
-<div>
-     <a href="https://acoding.academy/formaciones/swift-developer-program/">
-  Consigue tu plaza para el Swift Developer Program de Apple Coding Academy en este enlace
-</a>
-</div>
-
+# ¿Te gusta el desarrollo de aplicaciones en entornos Apple?
+Ya estan disponibles las plazas para el proximo <a href="https://acoding.academy/formaciones/swift-mastery-program/"> SWIFT MASTERY PROGRAM 2025 </a> de Apple Coding Academy
+### ![image](https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9) Consigue tu plaza ya
 </br>
 
-> LLevo 25 años inmersa en el mundo de la informatica, siempre me ha gustado
-> He llegado a trabajar como soporte técnico con tareas en entorno servidor con Windows 2000 Server
-</br>
+> LLevo 25 años inmersa en el mundo de la informatica.
+> 
+> Soy una apasionada del desarrollo de Software
+> 
+> He llegado a trabajar como soporte técnico informatico con tareas en entorno servidor con Windows 2000 Server
 
-<div align="center">
+# CONOCIMIENTOS ADQUIRIDOS
+## Leneguajes de programacion
+<p> 📗 Visual Basic 6, C, C++, Pascal Object, Java y Swift</p>
+<p> 📗 De Script: HTML, JavaScript, CSS3, XML, DHXML, VBScript, PHP</p>
+
+## Acceso a Datos
+<p> 📗 SQl, SQL SERVER, IBM DB2 </p>
+
+## Herramientas Red y Servidor
+<p> 📗 Acceso a escritorio remoto en Windows y Direcorio Activo de Windows 2000 Server </p>
+<p> 📗 Archivos en red de MacOS </p>
+
+## Herramientas de diseño
+<p> 📗 Photoshop entre otras </p>
+
+## Herramientas de CRM "Customer Relationship Management"
+<p> 📗 Clarify entre otras</p>
+
+</br>
 
 ## He ralizado varios curos del inem
 
-<table style="width:100%">
-<tr>
-  <td>Ofimatica básica</td>
-  <td>➡️</td>
-  <td>2002</td>
-</tr>
-<tr>
-  <td>Lenguajes de programación</td>
-  <td>➡️</td>
-  <td>2003</td>
-</tr>
-<tr>
-  <td>Diseño de páginas Web</td>
-  <td>➡️</td>
-  <td>2004</td>
-</tr>
-<tr>
-  <td>Programacion en Java</td>
-  <td>➡️</td>
-  <td>2007</td>
-</tr>
-</table>
-</div>
+      Ofimatica básica                     ➡️             2002
+            
+      Lenguajes de programación            ➡️             2003
+
+      Diseño de paginas Web                ➡️             2004
+
+      Lenguaje de programación Java        ➡️             2007
 
 </br>
 </br>
