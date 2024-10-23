@@ -1,24 +1,25 @@
-![Banner GitHub 001](https://github.com/user-attachments/assets/1638543f-803c-497d-8069-fa1a4bcbe5f9)
+<div align="center"><img src="https://github.com/user-attachments/assets/ec8ab36b-13ec-4c01-9d9a-868572f072c5" alt="Banner de GitHub 001" width="60%" /></div>
 
+# Hola me llamo Silvia Caraballo y soy Swift Developer
 
-### 👩‍💻 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años
-### 😄 Actualmente estoy cursando el:
+###    LLevo 25 años inmersa en el mundo de la informatica.
+### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
+### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años
+</br>
+
+## 😄 Actualmente estoy cursando el:
 <div>
       <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46">
 </div>
 
-# Mas info en → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
+# Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
 
-# ¿Te gusta el desarrollo de aplicaciones en entornos Apple?
-Ya estan disponibles las plazas para el proximo <a href="https://acoding.academy/formaciones/swift-mastery-program/"> SWIFT MASTERY PROGRAM 2025 </a> de Apple Coding Academy
-### ![image](https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9) Consigue tu plaza ya
+## Ya eres desarrollador en entornos Apple y tienes una base, pero quieres aprender mas pues
+ya estan disponibles las plazas para el proximo <a href="https://acoding.academy/formaciones/swift-mastery-program/"> SWIFT MASTERY PROGRAM 2025 </a> de Apple Coding Academy
+### Consigue tu plaza ya  ![image](https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9) 
 </br>
 
-> LLevo 25 años inmersa en el mundo de la informatica.
-> 
-> Soy una apasionada del desarrollo de Software
-> 
-> He llegado a trabajar como soporte técnico informatico con tareas en entorno servidor con Windows 2000 Server
+> He trabajado como soporte técnico informatico con tareas en entorno servidor con Windows 2000 Server es lo mas cerca que he estado de la profesion a la que deso dedicarme
 
 # CONOCIMIENTOS ADQUIRIDOS
 ## Leneguajes de programacion
