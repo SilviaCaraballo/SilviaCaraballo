@@ -1,22 +1,30 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/ec8ab36b-13ec-4c01-9d9a-868572f072c5" alt="Banner de GitHub 001" width="60%" /></div>
+<h1 align="center">Bienvenidos a mi repositorio</h1>
+<h2>Hola me llamo Silvia Caraballo y soy Swift Developer</h2>
+<div>
+<img src="https://github.com/user-attachments/assets/5a43c47e-4b90-4bcd-b8d2-f06d75b117da" width="40%", align="left"/>
+</div>
+</br>
 
-# Hola me llamo Silvia Caraballo y soy Swift Developer
-
-###    LLevo 25 años inmersa en el mundo de la informatica.
+### LLevo 25 años inmersa en el mundo de la informatica
 ### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
 ### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-## 😄 Actualmente estoy cursando el:
+### 😄 Actualmente estoy cursando el:
 <div>
-      <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46">
+      <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46",align="right"/>
 </div>
 
 # Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
-
 ## Ya eres desarrollador en entornos Apple y tienes una base, pero quieres aprender mas pues
 ya estan disponibles las plazas para el proximo <a href="https://acoding.academy/formaciones/swift-mastery-program/"> SWIFT MASTERY PROGRAM 2025 </a> de Apple Coding Academy
-### Consigue tu plaza ya  ![image](https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9) 
+### Consigue tu plaza ya: <img src="https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9" align="center">
+
 </br>
 
 > He trabajado como soporte técnico informatico con tareas en entorno servidor con Windows 2000 Server es lo mas cerca que he estado de la profesion a la que deso dedicarme
@@ -61,7 +69,7 @@ ya estan disponibles las plazas para el proximo <a href="https://acoding.academy
       <img src="https://github.com/user-attachments/assets/08816d54-c29e-49dd-9984-66e4fd1fc5d6" width="100">
 
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxvMmFsc3NnN2JkOTU5NjBnangxaWVjdWxzcWN0d2x2cTk1MWcycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWt0rhp21JgLwoeFQP/giphy.gif" width="100">
+  <img src="https://github.com/user-attachments/assets/b0fb1dc2-aa00-44f8-833b-4c1ae6758e1f" width="100">
 </p>
 </br>
 
@@ -80,4 +88,5 @@ ya estan disponibles las plazas para el proximo <a href="https://acoding.academy
   <img src="https://github.com/SilviaCaraballo/SilviaCaraballo/assets/18419850/c735d8af-68a6-496e-a475-47b8fda57eeb" width="8%" alt="Twiter/ X">
 </a>
 </div>
+
 
