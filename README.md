@@ -3,25 +3,20 @@
 <div>
 <img src="https://github.com/user-attachments/assets/5a43c47e-4b90-4bcd-b8d2-f06d75b117da" width="40%", align="left"/>
 </div>
-</br>
 
 ### LLevo 25 años inmersa en el mundo de la informatica
+### He finalizado el Swift Developer Program de Apple Coding Academy
 ### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
-### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años
-</br>
-</br>
-</br>
-</br>
-</br>
+### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años y medio
 </br>
 
-### 😄 Actualmente estoy cursando el:
-<div>
-      <img src="https://github.com/user-attachments/assets/9355fbe0-534c-40d5-8f44-276303076448" height="46",align="right"/>
+### 😄 Estoy muy emocionada porque en breeve comenzaré:
+<div align = "center">
+      <img src="https://github.com/user-attachments/assets/58fbdeb1-44e1-4fbe-828a-8430e3efcca2" width="300", height="200",align="right"/>
 </div>
 
 # Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
-## Ya eres desarrollador en entornos Apple y tienes una base, pero quieres aprender mas pues
+## Ya eres desarrollador en entornos Apple y tienes una base, pero quieres aprender mas pues:
 ya estan disponibles las plazas para el proximo <a href="https://acoding.academy/formaciones/swift-mastery-program/"> SWIFT MASTERY PROGRAM 2025 </a> de Apple Coding Academy
 ### Consigue tu plaza ya: <img src="https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9" align="center">
 
@@ -33,6 +28,7 @@ ya estan disponibles las plazas para el proximo <a href="https://acoding.academy
 ## Leneguajes de programacion
 <p> 📗 Visual Basic 6, C, C++, Pascal Object, Java y Swift</p>
 <p> 📗 De Script: HTML, JavaScript, CSS3, XML, DHXML, VBScript, PHP</p>
+<p> 📗 Programacion en entornos Apple: Swift, SwiftUI, Patrones de diseño, Protocolos,Tareas de red, Concurrencia, Gestion de versiones con Git</p>
 
 ## Acceso a Datos
 <p> 📗 SQl, SQL SERVER, IBM DB2 </p>
