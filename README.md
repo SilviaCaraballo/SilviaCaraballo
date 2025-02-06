@@ -8,16 +8,20 @@
 ### He finalizado el Swift Developer Program de Apple Coding Academy
 ### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
 ### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años y medio
+### 📚 Acabo de finalizar el Swift Developer Program en Apple Coding Academy
+</br>
+</br>
 </br>
 
-### 😄 Estoy muy emocionada porque en breeve comenzaré:
+## *😄 Actualmente estoy haciendo:*
 <div align = "center">
       <img src="https://github.com/user-attachments/assets/58fbdeb1-44e1-4fbe-828a-8430e3efcca2" width="300", height="200",align="right"/>
 </div>
 
 # Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
-## Ya eres desarrollador en entornos Apple y tienes una base, pero quieres aprender mas pues:
-ya estan disponibles las plazas para el proximo <a href="https://acoding.academy/formaciones/swift-mastery-program/"> SWIFT MASTERY PROGRAM 2025 </a> de Apple Coding Academy
+## Ya está abierto en plazo de inscripción para:
+
+el <a href="https://acoding.academy/formaciones/swift-developer-program/"> SWIFT DEVELOPER PROGRAM 2025 </a> de Apple Coding Academy
 ### Consigue tu plaza ya: <img src="https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9" align="center">
 
 </br>
@@ -28,7 +32,7 @@ ya estan disponibles las plazas para el proximo <a href="https://acoding.academy
 ## Leneguajes de programacion
 <p> 📗 Visual Basic 6, C, C++, Pascal Object, Java y Swift</p>
 <p> 📗 De Script: HTML, JavaScript, CSS3, XML, DHXML, VBScript, PHP</p>
-<p> 📗 Programacion en entornos Apple: Swift, SwiftUI, Patrones de diseño, Protocolos,Tareas de red, Concurrencia, Gestion de versiones con Git</p>
+<p> 📗 Programacion en entornos Apple: Swift, SwiftUI, Patrones de diseño, Protocolos,Tareas de red, Concurrencia y asincronia, Gestion de versiones con Git, testeo de apps (Swift Testing), bases de dato (Swift Data)</p>
 
 ## Acceso a Datos
 <p> 📗 SQl, SQL SERVER, IBM DB2 </p>
@@ -59,13 +63,7 @@ ya estan disponibles las plazas para el proximo <a href="https://acoding.academy
 </br>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100">
-  <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-      <img src="https://github.com/user-attachments/assets/08816d54-c29e-49dd-9984-66e4fd1fc5d6" width="100">
-
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://github.com/user-attachments/assets/b0fb1dc2-aa00-44f8-833b-4c1ae6758e1f" width="100">
+<img width="500" src="https://github.com/user-attachments/assets/8f7ac806-96bd-4f42-bab0-196a2530617b" />
 </p>
 </br>
 
