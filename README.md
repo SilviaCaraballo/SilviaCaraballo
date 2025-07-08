@@ -13,15 +13,15 @@
 </br>
 </br>
 
-## *😄 Actualmente estoy haciendo:*
+## *😄 Recientemente he finalizado el:*
 <div align = "center">
       <img src="https://github.com/user-attachments/assets/58fbdeb1-44e1-4fbe-828a-8430e3efcca2" width="300", height="200",align="right"/>
 </div>
 
 # Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
-## Ya está abierto en plazo de inscripción para:
+## Proximamente:
 
-el <a href="https://acoding.academy/formaciones/swift-developer-program/"> SWIFT DEVELOPER PROGRAM 2025 </a> de Apple Coding Academy
+El SWIFT DEVELOPER PROGRAM 2025 edicion de Octubre de Apple Coding Academy
 ### Consigue tu plaza ya: <img src="https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9" align="center">
 
 </br>
