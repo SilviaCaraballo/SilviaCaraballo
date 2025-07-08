@@ -8,7 +8,7 @@
 ### He finalizado el Swift Developer Program de Apple Coding Academy
 ### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
 ### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años y medio
-### 📚 Acabo de finalizar el Swift Developer Program en Apple Coding Academy
+### 📚 En diciembre he finalizado el Swift Developer Program en Apple Coding Academy
 </br>
 </br>
 </br>
