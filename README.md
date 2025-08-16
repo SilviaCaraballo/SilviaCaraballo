@@ -9,14 +9,15 @@
 ### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
 ### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años y medio
 ### 📚 En diciembre he finalizado el Swift Developer Program en Apple Coding Academy
-</br>
-</br>
-</br>
 
-## *😄 Recientemente he finalizado el:*
+## *😄 Afinales de Junio he terminado:* 
+La formacion mas **larga**, **intensiva** y las mas importante de mi trayectoria como **developer**
 <div align = "center">
       <img src="https://github.com/user-attachments/assets/58fbdeb1-44e1-4fbe-828a-8430e3efcca2" width="300", height="200",align="right"/>
 </div>
+
+## Reto:
+La parte mas importante de la formacion, como  no puede ser de otra manera **El proyecto final**, donde demostraré lo aprendido, proyecto que ya va dando sus primeros pasos
 
 # Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
 ## Proximamente:
