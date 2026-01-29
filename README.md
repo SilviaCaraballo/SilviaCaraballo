@@ -1,5 +1,9 @@
 <h1 align="center">Bienvenidos a mi repositorio</h1>
-<h2>Hola me llamo Silvia Caraballo y soy Swift Developer</h2>
+<h2>Hola me llamo Silvia Caraballo y soy Freelance Swift Developer</h2>
+
+> Soy Desarrolladora de software con mas de 25 años en proyectos tecnologícos# Desarrollo de iOSDesde 2022, desarrollo aplicaciones para la plataforma Apple iOS usando Swift y Xcode. Me especializo en crear aplicaciones basadas en SwiftUI y MVVM, implementar pruebas unitarias a través de TDD y accesibilidad en mis proyectos. También manejo bibliotecas con Swift Package Manager y uso Git para el control de versiones, con GitHub, asi como la gran mayoría de herramientas de inteligencia artificial, mas conocidas: Gemini CLI y Codex.# Desarrollo visualGestiono los componentes de diseño entregados con herramientas de diseño como Sketch o Figma.
+
+<p>Si quieres conocerme este es mi perfil de LInkedin <a href="https://www.linkedin.com/in/silvia-caraballo-fernandez-02bb99308/">Perfil profesional</a></p>
 <div>
 <img src="https://github.com/user-attachments/assets/5a43c47e-4b90-4bcd-b8d2-f06d75b117da" width="40%", align="left"/>
 </div>
@@ -22,8 +26,11 @@ La parte mas importante de la formacion, como  no puede ser de otra manera **El 
 # Si quieres aprender desarrollo en Swift visita → <a href="https://acoding.academy"><img src="https://github.com/user-attachments/assets/f7bf17ed-6b56-487a-acb3-dda9c18c4f7e" height="50">
 ## Proximamente:
 
-El SWIFT DEVELOPER PROGRAM 2025 edicion de Octubre de Apple Coding Academy
-### Consigue tu plaza ya: <img src="https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9" align="center">
+### El SWIFT MASTERY PROGRAM 2026 de Apple Coding Academy
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d44851eb-aa05-4077-8643-4fcc87bd32c5" align="left">
+
+### Consigue tu plaza ya: <img width="100" height="100" src="https://github.com/user-attachments/assets/98fccdc6-3d15-417c-bf4a-3f1c2ed195a9" align="center">
 
 </br>
 
