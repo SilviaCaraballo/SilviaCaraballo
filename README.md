@@ -1,14 +1,13 @@
 <h1 align="center">Bienvenidos a mi repositorio</h1>
 <h2>Hola me llamo Silvia Caraballo y soy Freelance Swift Developer</h2>
 
-> Soy Desarrolladora de software con mas de 25 años en proyectos tecnologícos# Desarrollo de iOSDesde 2022, desarrollo aplicaciones para la plataforma Apple iOS usando Swift y Xcode. Me especializo en crear aplicaciones basadas en SwiftUI y MVVM, implementar pruebas unitarias a través de TDD y accesibilidad en mis proyectos. También manejo bibliotecas con Swift Package Manager y uso Git para el control de versiones, con GitHub, asi como la gran mayoría de herramientas de inteligencia artificial, mas conocidas: Gemini CLI y Codex.# Desarrollo visualGestiono los componentes de diseño entregados con herramientas de diseño como Sketch o Figma.
-
 <p>Si quieres conocerme este es mi perfil de LInkedin <a href="https://www.linkedin.com/in/silvia-caraballo-fernandez-02bb99308/">Perfil profesional</a></p>
 <div>
 <img src="https://github.com/user-attachments/assets/5a43c47e-4b90-4bcd-b8d2-f06d75b117da" width="40%", align="left"/>
 </div>
 
-### LLevo 25 años inmersa en el mundo de la informatica
+### Desarrolladora de software con mas de 25 años en proyectos tecnológicos.
+### Desde 2022, desarrollo aplicaciones para la plataforma Apple iOS usando Swift y Xcode. Me especializo en crear aplicaciones basadas en SwiftUI y MVVM, implementar pruebas unitarias a través de TDD y accesibilidad en mis proyectos. También manejo bibliotecas con Swift Package Manager y uso Git para el control de versiones, con GitHub, asi como la gran mayoría de herramientas de inteligencia artificial, mas conocidas: Gemini CLI y Codex.Desarrollo visual. Gestiono los componentes de diseño entregados con herramientas de diseño como Sketch o Figma.
 ### He finalizado el Swift Developer Program de Apple Coding Academy
 ### 👩‍💻 Me encanta la informatica y sobre todo el desarrollo de aplicaciones
 ### 🍎 He estado aprendiendo  de forma autodidacta el lenguaje de Programación Swift en los dos ultimos años y medio
